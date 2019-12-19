@@ -118,6 +118,7 @@ public class Logic {
 	public void restart()
 	{
 		String[] args = new String[0];
+		
         restart.main(args);
 	}
 	
