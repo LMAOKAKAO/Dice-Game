@@ -119,8 +119,6 @@ public class Logic {
 	{
 		String[] args = new String[0];
         	restart.main(args);
-		
-		dispose();
 	}
 	
 }
